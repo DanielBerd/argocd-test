@@ -1,1 +1,1 @@
-# agrocd-test
+# argocd-test
